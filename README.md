@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreedharbatthad" alt="shreedharbatthad" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript,Cypress**
+- 🌱 I’m Getting Pro in  **Java,Typescript** langauages.
 
 - 📝 I regularly write articles on [https://medium.com/@shreedharbatthad36](https://medium.com/@shreedharbatthad36)
 
