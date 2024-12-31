@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreedhar</h1>
-<h3 align="center">A passionate Automation Test Engineer from India, Working on Manual, Java, Selenium, API testing for 3+ years now.</h3>
+<h3 align="center">A passionate Automation Test Engineer, Working on Manual, Java, Selenium, and API testing for 3+ years now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreedharbatthad&label=Profile%20views&color=0e75b6&style=flat" alt="shreedharbatthad" /> </p>
 
